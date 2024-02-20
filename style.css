@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+header{
+  background-color:#6a82ec;
+}
+header p{
+    font-family: Kaisei Decol;
+    font-size: 23px;
+    
+}
+header img{
+ height:95px ;
+ width:140px;
+ border-radius: 5px; 
+}
+main p{
+    font-family: JejuHallasan;
+    font-size: 17px;
+}
+ul{
+  font-family: JejuHallasan;
+    font-size: 17px;
+}
+main img{
+   height:170px ;
+   width: 270px;
+   border-radius: 50px;
+   border:5px dashed rgba(88, 255, 241, 0.74);
+}
+footer{
+  background-color:#bcffd2;
+  size:500px ;
+}
